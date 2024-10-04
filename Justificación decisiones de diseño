@@ -1,0 +1,7 @@
+En la implementación del diseño de la página de inicio de sesión, se tomaron decisiones clave para asegurar un equilibrio entre la estética y la funcionalidad. Dado que los colores solicitados para el diseño son predominantemente oscuros, fue fundamental compensar visualmente con elementos que aportaran claridad y contraste, asegurando una experiencia de usuario amigable.
+
+Colores oscuros: Los tonos oscuros brindan un aspecto elegante y profesional, pero para evitar que la página resultara visualmente pesada o poco legible, se optó por el uso de imágenes en tonos claros. Estas imágenes contribuyen a iluminar el diseño y dar frescura, rompiendo la monotonía de los fondos oscuros.
+
+Texto en blanco: Se empleó texto en blanco para asegurar un alto contraste con los fondos oscuros. Esto no solo mejora la legibilidad, sino que también aporta una sensación de limpieza y modernidad, alineada con los objetivos del diseño.
+
+Dinamismo visual: Para evitar que el diseño fuera demasiado plano o estático, se introdujeron imágenes aleatorias en el login.
